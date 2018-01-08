@@ -1,0 +1,15 @@
+# Code for Distributed Deep Learning Course
+## Distributed Deep Learning with Google Cloud Machine Learning Engine
+
+#### What we will do in this chapter.
+
+- Create a python package/module 
+- Use a canned Tensorflow estimator 
+- Train our model locally
+- Train our model on the cloud (GPUs)
+- Export and deploy our model as a prediction server
+- Do online and batch prediction
+- Improve our model using hyperparameter tuning
+- Deploy our new and improved model as a prediction server
+- Setup API service for machine learning model
+

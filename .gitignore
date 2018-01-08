@@ -1,3 +1,6 @@
 
 *.iml
 *.xml
+.DS_Store
+trainer/variables.sh
+data/fashion-mnist_train.csv
