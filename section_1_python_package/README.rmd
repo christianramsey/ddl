@@ -1,0 +1,10 @@
+# Code for Distributed Deep Learning Course
+## Distributed Deep Learning with Google Cloud Machine Learning Engine
+
+### Part 1: Create a package
+#### What we will do in this chapter.
+
+- Setting up a python module/package
+- Directory structure
+- Setup.py
+- Adding your module to the Python PATH
