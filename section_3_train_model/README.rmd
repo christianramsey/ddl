@@ -1,0 +1,12 @@
+# Code for Distributed Deep Learning Course
+## Distributed Deep Learning with Google Cloud Machine Learning Engine
+
+### Part 3: training model locally and on the cloud
+#### What we will do in this chapter.
+
+- Setup simple linear tensorflow estimator
+- Review input function of estimator
+- Use deep neural network estimator
+- Use wide and deep estimator
+- Create a custom estimator
+- Use tf.experiment function
